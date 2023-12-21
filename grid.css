@@ -1,6 +1,8 @@
 html  {
     box-sizing: border-box;
     font-size: 16px;
+    margin: auto;
+    max-width: 1280px;
 }
 
 
@@ -16,13 +18,7 @@ html  {
     flex-wrap: wrap;
 }
 
-.container{
-    margin: auto;
-    max-width: 1280px;
-}
-
-
-
+/* dimensiones de las columnas  */
 
  .col-1{ 
     width: 8.333333333333333%; 
