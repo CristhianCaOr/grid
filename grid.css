@@ -22,9 +22,7 @@ html  {
 }
 
 
-*[class^="col"]{
-    border:solid gray;
-}
+
 
  .col-1{ 
     width: 8.333333333333333%; 
